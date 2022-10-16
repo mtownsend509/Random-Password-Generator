@@ -24,7 +24,9 @@ The user can generate a password by clicking a button and providing inputs to de
 
 
 Website URL: https://mtownsend509.github.io/Random-Password-Generator
-Website Screenshot: 
+Website Screenshot: ![Generator](https://user-images.githubusercontent.com/111660791/196061593-8eb225a9-26c2-4090-9274-d07fc1203b4e.PNG)
+
+
 
 
 ## Credits
